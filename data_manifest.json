@@ -1,11 +1,10 @@
 {
   "data_ready": true,
   "data_version": "data-1.0.0.4",
-  "archive_name": "Cachezin4.zip",
-  "archive_url": "https://github.com/zeuskakarottodask/Caches/releases/download/data-1.0.0.4/Cachezin4.zip",
-  "archive_size_bytes": 0,
-  "unpacked_size_bytes": 0,
+  "archive_name": "cachezin4.zip",
+  "archive_url": "https://github.com/zeuskakarottodask/Caches/releases/download/data-1.0.0.4/cachezin4.zip",
+  "archive_size_bytes": 1383135978,
+  "unpacked_size_bytes": 2588322360,
   "sha256": "",
   "message": "Data completa Cachezin4"
 }
-
